@@ -1,2 +1,2 @@
 gitチュートリアル
-  - fix-B
+  - feature
