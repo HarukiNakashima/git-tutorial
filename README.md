@@ -1,2 +1,2 @@
 gitチュートリアル
-  - feature-A
+  - feature-AAAAAAAAAA
